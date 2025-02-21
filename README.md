@@ -5,7 +5,7 @@
 Below you will be given requirements needed to create a copycat of a basic pokemon application. You will are provided with images to use as references that you will be expected to mirror as closely as possible. 
 
 #### Home Page
-In this project you will be utilizing the PokeApi, to create an application using your new knowledge of HTML,JavaScript, and CSS. You have been given all of the tools needed to successfully recreate an copycat application of the images below. 
+In this project you will be utilizing the PokeApi, to create an application using your new knowledge of HTML, JavaScript, and CSS. You have been given all of the tools needed to successfully recreate an copycat application of the images below. 
 
 You will need a minimum of 3 files (html, js, css). You may create more than the initial 3, you are only required to have the initial 3. 
 
