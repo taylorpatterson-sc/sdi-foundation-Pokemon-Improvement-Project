@@ -1,3 +1,5 @@
+### FORK AND CLONE THIS REPOSITORY TO YOUR GITHUB ACCOUNT
+
 ## Pokemon Improvement Project
 
 Below you will be given requirements needed to create a copycat of a basic pokemon application. You will are provided with images to use as references that you will be expected to mirror as closely as possible. 
