@@ -44,3 +44,5 @@ When you click on any of the cards your browser should now display a single poke
 Note: All of the foundational knowledge you need to create this application can be found in your Learn content.
 
 Note: All pokeapi documentation is available at `https://pokeapi.co/`.
+
+Note: This work must be your own, not written by another, and not developed using AI.
