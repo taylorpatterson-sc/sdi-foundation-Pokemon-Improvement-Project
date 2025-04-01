@@ -46,3 +46,5 @@ Note: All of the foundational knowledge you need to create this application can 
 Note: All pokeapi documentation is available at `https://pokeapi.co/`.
 
 Note: This work must be your own, not written by another, and not developed using AI.
+
+This is my change.
